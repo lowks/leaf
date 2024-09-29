@@ -70,7 +70,7 @@ cargo run --release --no-default-features --features cuda --example benchmarks a
 
 ### Installation
 
-> Leaf is build in [Rust][rust]. If you are new to Rust you can install Rust as detailed [here][rust_download].
+> Leaf is built in [Rust][rust]. If you are new to Rust you can install Rust as detailed [here][rust_download].
 We also recommend taking a look at the [official Rust - Getting Started Guide][rust_getting_started].
 
 To start building a machine learning application (Rust only for now. Wrappers are welcome) and you are using Cargo, just add Leaf to your `Cargo.toml`:
